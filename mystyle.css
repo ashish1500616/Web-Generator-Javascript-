@@ -1,0 +1,65 @@
+
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+    .foot-text {
+        font-family: Gloria Hallelujah;
+        font-size: 15px;
+        text-align: center;
+    }
+    
+    #daily {
+        font-size: 49px;
+        font-family: monospace;
+    }
+    
+    #jum1 {
+        background-image: url("http://img03.deviantart.net/f26d/i/2013/362/c/9/rain_forest_stock_by_vatorx-d6zq9g5.jpg");
+        height: 300px;
+    }
+    
+    #jumT {
+        font-size:25px;
+        color: antiquewhite;
+        margin-top: 150px;
+        font-family: monospace;
+    }
+    
+    a:link {
+        color: green;
+        background-color: transparent;
+        text-decoration: none
+    }
+    
+    a:visited {
+        color: cornflowerblue;
+        background-color: transparent;
+        text-decoration: none
+    }
+    
+    a:hover {
+        color: blue;
+        background-color: transparent;
+        text-decoration: underline
+    }
+    
+    a:active {
+        color: yellow;
+        background-color: transparent;
+        text-decoration: underline
+    }
+body {
+        font-family: monospace;
+        background-color: black;
+}
+p {
+    color: slategrey;
+    margin: 20px 0 10px;
+}
+h4#daily {
+    color: grey;
+}
+h7{
+    color: antiquewhite;
+}
+.jumbotron {
+    height: 336px;
+}
